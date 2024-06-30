@@ -1,0 +1,33 @@
+.book-container {
+  border: 1px solid lightgray;
+  width: 500px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform-style: preserve-3d;
+  perspective: 400px;
+}
+
+.book {
+  width: 200px;
+  height: 300px;
+  transform: rotateY(-30deg);
+  position: relative;
+}
+
+.book> :first-child {
+  background: #0d47a1aa;
+  width: 200px;
+  height: 300px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.book::before {
+  position: absolute;
+  content: ' ';
+  background: #bf360caa;
+  height: 300px;
+  width: 50px;
+}
