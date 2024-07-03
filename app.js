@@ -13,65 +13,74 @@ document.addEventListener("DOMContentLoaded", function () {
         "Faith is forged in adversity, revealed through action, and refined by self-discipline. James challenges believers to master their speech, reject worldly wisdom, and find strength in community. At its core, it's a call to align beliefs with behavior, arguing that faith without deeds is meaningless. ",
     },
     {
-      title: "Exodus",
+      title: "Matthew",
       number: 2,
       imageUrl:
         "https://www.simpleimageresizer.com/_uploads/photos/ac79dfcc/Matthew_1_1410x2000.jpg",
-      summary: "Summary",
+      summary:
+        "Matthew  highlights Christ's teachings, particularly in the Sermon on the Mount, where He outlines the values of God's kingdom. Through parables and miracles, Christ demonstrates His divine authority and compassion. Matthew's Gospel climaxes with Christ's sacrificial death on the cross and His triumphant resurrection, securing salvation for all who believe. Then ends with the Great Commission, Christ's charge to His followers to make disciples of all nations.",
     },
     {
-      title: "Leviticus",
+      title: "Mark",
       number: 3,
       imageUrl:
         "https://www.simpleimageresizer.com/_uploads/photos/ac79dfcc/Mark_1_optimized.png",
-      summary: "Summary for Leviticus",
+      summary:
+        "Mark's Gospel is a fast-paced, action-oriented account of Christ's ministry. It's the shortest of the four Gospels, focusing on Christ's miracles more than His extended teachings. It begins with John the Baptist preparing the way for Christ, followed quickly by His baptism and temptation. Mark then dives into Christ's public ministry in Galilee, highlighting His authority through powerful teachings and miracles.",
     },
     {
-      title: "Book 4 Title",
+      title: "Romans",
       number: 4,
       imageUrl:
         "https://www.simpleimageresizer.com/_uploads/photos/ac79dfcc/Romans_1410x2000.jpg",
-      summary: "Summary for Book 4",
+      summary:
+        "The Book of Romans is the Apostle Paul's magnum opus, a comprehensive explanation of the gospel and its implications for both Jews and Gentiles. It's often considered the most systematic presentation of Christian doctrine in the New Testament. Paul begins by establishing the universal need for salvation, showing that all have sinned and fall short of God's glory. He then introduces the good news: justification by faith in Christ, available to all who believe.",
     },
     {
-      title: "Book 5 Title",
+      title: "Numbers",
       number: 5,
       imageUrl:
         "https://www.simpleimageresizer.com/_uploads/photos/ac79dfcc/numbers_11_2000x1500.jpg",
-      summary: "Summary for Book 5",
+      summary:
+        "The Book of Numbers, the fourth book of the Pentateuch, covers Israel's journey from Mount Sinai to the borders of the Promised Land. Its name comes from the censuses taken of the Israelites. It begins with God organizing the Israelites for their journey. Then details the arrangement of the tribes, the duties of the Levites, and various laws and regulations for the community. A significant portion of Numbers recounts Israel's struggles in the wilderness. Despite God's provision (including manna and water), the people frequently complain and rebel. ",
     },
     {
-      title: "Book 6 Title",
+      title: "Hebrews",
       number: 6,
       imageUrl:
         "https://www.simpleimageresizer.com/_uploads/photos/ac79dfcc/Hebrews_optimized.png",
-      summary: "Summary for Book 6",
+      summary:
+        "Hebrews presents Christ as the supreme and final revelation of God. It demonstrates Christ's superiority over angels, Moses, and the Old Testament priesthood. Paul encourages Jewish Christians to persevere in faith, warning against falling away. The book emphasizes Christ's perfect sacrifice, which replaces the old covenant system. It ends with practical exhortations for Christian living and a call to endure in faith.",
     },
     {
-      title: "Book 7 Title",
+      title: "Proverbs",
       number: 7,
       imageUrl:
         "https://www.simpleimageresizer.com/_uploads/photos/ac79dfcc/Proverbs_1410x2000.jpg",
-      summary: "Summary for Book 7",
+      summary:
+        "Proverbs is a collection of wisdom literature, primarily attributed to King Solomon. It offers practical guidance for godly living in areas such as speech, relationships, work, and finances. The book emphasizes that true wisdom begins with reverence or deep respect for the Lord. It contrasts the paths of wisdom and folly, encouraging readers to choose wisdom for a life of blessing and success in God's eyes.",
     },
     {
-      title: "Book 8 Title",
+      title: "Jonah",
       number: 8,
       imageUrl:
         "https://www.simpleimageresizer.com/_uploads/photos/ac79dfcc/jonah_1410x2000.jpg",
-      summary: "Summary for Book 8",
+      summary:
+        "Jonah tells the story of a prophet who initially refuses God's call to preach to Nineveh, Israel's enemy. After being swallowed by a great fish and then delivered, Jonah reluctantly obeys. To his surprise, Nineveh repents. The book reveals God's concern for all nations and His willingness to forgive. It challenges readers to examine their own hearts regarding God's mercy and their attitudes toward those different from themselves.",
     },
     {
-      title: "Book 9 Title",
+      title: "Psalms",
       number: 9,
       imageUrl: "Assets/psalms.png",
-      summary: "Summary for Book 9",
+      summary:
+        "Psalms is the Bible's songbook, containing 150 poetic compositions expressing a wide range of human emotions and experiences in relation to God. It includes praise, lament, thanksgiving, and wisdom psalms. The Psalms teach us how to worship, pray, and process our feelings before God. They point to the coming Messiah and have been a source of comfort and inspiration for believers throughout history.",
     },
     {
-      title: "Book 10 Title",
+      title: "Kings 1 And 2",
       number: 10,
       imageUrl: "Assets/book-of-kings.png",
-      summary: "Summary for Book 10",
+      summary:
+        "These books trace the history of Israel's monarchy from Solomon's reign through the divided kingdom to the fall of Israel and Judah. They demonstrate how the nation's faithfulness or unfaithfulness to God directly impacted its fortunes. The books highlight the ministries of prophets like Elijah and Elisha. Throughout, we see God's patience with His people, His judgment on sin, and His faithfulness to His covenant promises. The books teach valuable lessons about leadership, obedience, and the consequences of turning away from God.",
     },
     // Add more books as needed
   ];
